@@ -1,6 +1,6 @@
 ### Hi there, I'm **Mყʂƚҽɾყ Bσყ** 👋
 
-<p align="center"><a href="https://www.github.com/MysteryBots"><img src="https://telegra.ph/file/1976029f52ba663cc99c5.mp4" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/MysteryBots"><img src="https://telegra.ph/file/1976029f52ba663cc99c5.gif" width="2000"></a></p>
 
 - 🔭 I’m currently working on life
 - 🌱 I’m currently learning Databases and JS
