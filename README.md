@@ -10,4 +10,4 @@
 [![Mystery's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysteryBots&theme=nightowl)](https://github.com/MysteryBots)
  -->
 
-Please visit @StarkBotsIndustries instead
+Please visit [@StarkBotsIndustries](https://github.com/StarkBotsIndustries) instead
